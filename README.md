@@ -1,5 +1,4 @@
 # Linux_mac_changer-
-A simple Linux script to change your mac address in Linux
 
 sample code 
 
